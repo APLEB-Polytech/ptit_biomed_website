@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>2017 &#8211; Le Ptit Biomed</title>
+	<atom:link href="/category/articles/afib/2017/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 07 Dec 2020 12:52:19 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/10/cropped-Plan-de-travail-1-copie-9@5x-2-32x32.png</url>
+	<title>2017 &#8211; Le Ptit Biomed</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>COMMENT EXPLOITER LES DONNÉES DE VOS APPAREILS BIOMÉDICAUX EN LES CONNECTANT ?</title>
+		<link>/comment-exploiter-les-donnees-de-vos-appareils-biomedicaux-en-les-connectant/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=comment-exploiter-les-donnees-de-vos-appareils-biomedicaux-en-les-connectant</link>
+					<comments>/comment-exploiter-les-donnees-de-vos-appareils-biomedicaux-en-les-connectant/#respond</comments>
+		
+		<dc:creator><![CDATA[Le Ptit Biomed]]></dc:creator>
+		<pubDate>Sun, 06 Dec 2020 17:12:38 +0000</pubDate>
+				<category><![CDATA[2017]]></category>
+		<category><![CDATA[AFIB]]></category>
+		<category><![CDATA[Articles]]></category>
+		<guid isPermaLink="false">/?p=1872</guid>
+
+					<description><![CDATA[<p>Par Stéphane KIRCHE, Direction de l’Ingénierie Biomédicale (DIB), GHT Saône et Loire Bresse Morvan &#8211; Nicolas LIMOGE, Direction du Système d’Information (DSI), GHT Saône et Loire Bresse Morvan &#8211; Jean-Baptiste MICHON, Product Marketing Manager, Société Enovacom &#8211; Benjamin MALOT, Responsable Système d’Information de Territoire, GHT Saône et Loire Bresse Morvan Au CH de Chalon-Sur-Saône, les &#8230;</p>
+<p class="read-more"> <a class="" href="/comment-exploiter-les-donnees-de-vos-appareils-biomedicaux-en-les-connectant/"> <span class="screen-reader-text">COMMENT EXPLOITER LES DONNÉES DE VOS APPAREILS BIOMÉDICAUX EN LES CONNECTANT ?</span> Lire la suite »</a></p>
+<p>L’article <a rel="nofollow" href="/comment-exploiter-les-donnees-de-vos-appareils-biomedicaux-en-les-connectant/">COMMENT EXPLOITER LES DONNÉES DE VOS APPAREILS BIOMÉDICAUX EN LES CONNECTANT ?</a> est apparu en premier sur <a rel="nofollow" href="/">Le Ptit Biomed</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Par  Stéphane KIRCHE, Direction de l’Ingénierie Biomédicale (DIB), GHT Saône et Loire Bresse Morvan &#8211; Nicolas LIMOGE, Direction du Système d’Information (DSI), GHT Saône et Loire Bresse Morvan &#8211; Jean-Baptiste MICHON, Product Marketing Manager, Société Enovacom &#8211; Benjamin MALOT, Responsable Système d’Information de Territoire, GHT Saône et Loire Bresse Morvan </p>
+
+
+
+<p> Au CH de Chalon-Sur-Saône, les Directions Biomédicale et Systèmes d’Information collaborent depuis longtemps sur de nombreux projets tels que la cogestion du PACS, l’informatisation de l’anesthésie et de la réanimation. Près de 800 équipements biomédicaux connectés au sein de l’établissement collectent des données accompagnant les équipes soignantes dans les prises de décision. Un projet a récemment vu le jour, à mettre en place dans l’unité de Réanimation, un système « clé en main » de transmission, de communication, de partage, des alarmes des appareils biomédicaux vers un système de gestion des alarmes au plus près du personnel soignant, améliorant également la sécurité et le confort du patient. Ce projet a nécessité de la part de ses acteurs de définir une politique de traitement des données biomédicales au sens de l’établissement d’une part, et au sein du GHT d’autre part, sous couvert d’une analyse des besoins précise, d’une définition de la gouvernance associée et des centres de responsabilité clairs. L’objectif est d’apporter une meilleure gestion post-projet, de la maintenance et de la continuité d’activité en cas de dysfonctionnement. </p>
+
+
+
+<p> Pour l’unité de réanimation, le projet implique la connectivité de différents équipements, et un dialogue fort avec les constructeurs et les industriels, nécessitant la synchronisation et la synergie entre les différents acteurs. La société ENOVACOM propose une solution Patient Connect qui assure l’interopérabilité de l’ensemble des équipements biomédicaux, une mise à disposition au format HL7. Une chambre témoin a été mise en place pour tester les installations, les interfaces, et s’assurer d’une ergonomie du poste de travail pour les soignants. </p>
+
+
+
+<p>
+
+Les Directions SI et Biomédicale sont
+facilitatrices et fédératrices de ce projet
+qui propose une solution 100% logicielle,
+et offre au CH de Chalon-Sur-Saône la
+première plateforme d’interopérabilité
+des équipements biomédicaux centrée sur
+le patient. Elle rend ainsi l’information
+compréhensible par tout le monde. C’est
+certain, l’hôpital de demain est un hôpital
+connecté qui collecte des données prédictives
+de l’état de santé du patient.
+
+</p>
+<p>L’article <a rel="nofollow" href="/comment-exploiter-les-donnees-de-vos-appareils-biomedicaux-en-les-connectant/">COMMENT EXPLOITER LES DONNÉES DE VOS APPAREILS BIOMÉDICAUX EN LES CONNECTANT ?</a> est apparu en premier sur <a rel="nofollow" href="/">Le Ptit Biomed</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/comment-exploiter-les-donnees-de-vos-appareils-biomedicaux-en-les-connectant/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>VIVRE MIEUX ET EN BONNE SANTÉ OU LA JEUNESSE ÉTERNELLE ?</title>
+		<link>/vivre-mieux-et-en-bonne-sante-ou-la-jeunesse-eternelle/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=vivre-mieux-et-en-bonne-sante-ou-la-jeunesse-eternelle</link>
+					<comments>/vivre-mieux-et-en-bonne-sante-ou-la-jeunesse-eternelle/#respond</comments>
+		
+		<dc:creator><![CDATA[Le Ptit Biomed]]></dc:creator>
+		<pubDate>Sun, 06 Dec 2020 17:12:38 +0000</pubDate>
+				<category><![CDATA[2017]]></category>
+		<category><![CDATA[AFIB]]></category>
+		<category><![CDATA[Articles]]></category>
+		<guid isPermaLink="false">/?p=1870</guid>
+
+					<description><![CDATA[<p>Par Igor et Grichka BOGDANOFF Essayistes scientifiques Dans un monde où les connaissances scientifiques progressent toujours plus vite, le rêve actuel pour l’humanité est l’allongement de l’espérance de vie en bonne santé. Si la phrase “Hier vieux à 80 ans, demain jeune à 150 ans” peut paraître utopiste, il s’agit pourtant d’une certitude pour de &#8230;</p>
+<p class="read-more"> <a class="" href="/vivre-mieux-et-en-bonne-sante-ou-la-jeunesse-eternelle/"> <span class="screen-reader-text">VIVRE MIEUX ET EN BONNE SANTÉ OU LA JEUNESSE ÉTERNELLE ?</span> Lire la suite »</a></p>
+<p>L’article <a rel="nofollow" href="/vivre-mieux-et-en-bonne-sante-ou-la-jeunesse-eternelle/">VIVRE MIEUX ET EN BONNE SANTÉ OU LA JEUNESSE ÉTERNELLE ?</a> est apparu en premier sur <a rel="nofollow" href="/">Le Ptit Biomed</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Par  Igor et Grichka BOGDANOFF </p>
+
+
+
+<p>Essayistes scientifiques </p>
+
+
+
+<p> Dans un monde où les connaissances scientifiques progressent toujours plus vite, le rêve actuel pour l’humanité est l’allongement de l’espérance de vie en bonne santé. Si la phrase “Hier vieux à 80 ans, demain jeune à 150 ans” peut paraître utopiste, il s’agit pourtant d’une certitude pour de plus en plus de chercheurs que l’espérance de vie humaine actuelle pourra être largement dépassée.  </p>
+
+
+
+<p> De nouvelles réponses aux fléaux modernes, cancers et maladies cardiovasculaires, se trouvent dans l’étude des gènes. Certains chercheurs espèrent ainsi éradiquer le cancer d’ici 2030. Au delà de ça, le but serait d’atteindre une très longue vie. </p>
+
+
+
+<p> Les exemples d’individus qui trompent le vieillissement se multiplient, telle la jeune américaine Brooke Greenberg, atteinte d’un syndrome qui l’empêchait de vieillir. Elle est décédée à l’âge de 20 ans dans le corps d’une enfant de 1 an. Autre constat intriguant, il existe une île en Sardaigne regroupant plus de 350 centenaires, dont le secret de longévité serait l’alliance de gènes protecteurs à un mode de vie traditionnel et stable, ainsi qu’à une routine assidue qui réduirait le stress. Autant la génétique que le mode de vie influeraient donc sur la longévité.  </p>
+
+
+
+<p>
+
+La recherche sur les gènes a pu mettre en
+évidence le rôle capital des télomères dans
+le vieillissement. On sait aujourd’hui que
+les cellules ne se divisent pas indéfiniment,
+mais seulement une cinquantaine de fois, et
+meurent ensuite. Elizabeth Blackburn a reçu
+le Prix Nobel de Médecine en 1989 pour avoir
+démontré le lien entre les télomères et la
+prolongation de la durée de vie des cellules.
+Situés à l’extrémité des chromosomes, ils se
+raccourcissent à chaque division cellulaire.
+Lorsqu’ils disparaissent, il y a mort cellulaire.
+Le but est donc de préserver la longueur de
+ces télomères le plus longtemps possible.
+Des recherches datant de 2010 ont mis en
+évidence la télomérase, une enzyme agissant
+sur cette longueur. Il a été prouvé en 2017
+que la télomérase avait été en mesure de
+bloquer la détérioration des télomères chez
+des souris, et donc leur vieillissement, leur
+permettant ainsi de vivre deux fois plus
+longtemps que la normale. De plus, il aurait
+été possible d’inverser le processus : elles
+auraient donc rajeuni. Après ces résultats
+enthousiasmants, il semblerait que l’humain
+soit le prochain sur la liste.
+
+</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+<p>L’article <a rel="nofollow" href="/vivre-mieux-et-en-bonne-sante-ou-la-jeunesse-eternelle/">VIVRE MIEUX ET EN BONNE SANTÉ OU LA JEUNESSE ÉTERNELLE ?</a> est apparu en premier sur <a rel="nofollow" href="/">Le Ptit Biomed</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/vivre-mieux-et-en-bonne-sante-ou-la-jeunesse-eternelle/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>LA SPECTROMÉTRIE DE MASSE : ÉTUDE MÉDICO-ÉCONOMIQUE COMPARATIVE</title>
+		<link>/la-spectrometrie-de-masse-etude-medico-economique-comparative/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=la-spectrometrie-de-masse-etude-medico-economique-comparative</link>
+					<comments>/la-spectrometrie-de-masse-etude-medico-economique-comparative/#respond</comments>
+		
+		<dc:creator><![CDATA[Le Ptit Biomed]]></dc:creator>
+		<pubDate>Sun, 06 Dec 2020 17:12:38 +0000</pubDate>
+				<category><![CDATA[2017]]></category>
+		<category><![CDATA[AFIB]]></category>
+		<category><![CDATA[Articles]]></category>
+		<guid isPermaLink="false">/?p=1876</guid>
+
+					<description><![CDATA[<p>Pr Paolo BRAMBILLA Responsable d’un laboratoire de biochimie clinique, Université de Milan La spectrométrie de masse est une technique qui analyse, détecte et identifie des molécules ou associations de molécules, en mesurant leur masse. Méthode puissante, par sa sensibilité, sa sélectivité et sa rapidité, elle est utilisée dans des domaines scientifiques très variés : physique, &#8230;</p>
+<p class="read-more"> <a class="" href="/la-spectrometrie-de-masse-etude-medico-economique-comparative/"> <span class="screen-reader-text">LA SPECTROMÉTRIE DE MASSE : ÉTUDE MÉDICO-ÉCONOMIQUE COMPARATIVE</span> Lire la suite »</a></p>
+<p>L’article <a rel="nofollow" href="/la-spectrometrie-de-masse-etude-medico-economique-comparative/">LA SPECTROMÉTRIE DE MASSE : ÉTUDE MÉDICO-ÉCONOMIQUE COMPARATIVE</a> est apparu en premier sur <a rel="nofollow" href="/">Le Ptit Biomed</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p> Pr Paolo BRAMBILLA </p>
+
+
+
+<p>Responsable d’un laboratoire de biochimie clinique, Université de Milan </p>
+
+
+
+<p> La spectrométrie de masse est une technique qui analyse, détecte et identifie des molécules ou associations de molécules, en mesurant leur masse. Méthode puissante, par sa sensibilité, sa sélectivité et sa rapidité, elle est utilisée dans des domaines scientifiques très variés : physique, chimie, biologie, médecine, entre autres. </p>
+
+
+
+<p> L’analyse par spectrométrie de masse est souvent associée à des instituts de recherche (industrie pharmaceutique ou chimique, agence de régulation), ou à des laboratoires toxicologiques ou médico-légaux. Pourtant, il est aujourd’hui démontré que cette technique représente également un grand intérêt pour des analyses cliniques. En effet, certains échantillons médicaux peuvent être difficiles à analyser en raison d’interférences et d’interactions entre substances. Par sa grande spécificité, la spectrométrie de masse permet de réaliser des mesures précises sur ces échantillons. Cette méthode ouvre la voie à de nouvelles analyses jusqu’alors imprécises ou impossibles. Elle a notamment permis de dépasser les limites de tests immunologiques ou d’analyser du plasma de patients hypertendus. Mais les inconvénients de cette méthode restent sa complexité, son coût important, le temps nécessaire à la réalisation de certaines procédures, sa nonautomatisation et le peu de professionnels formés à cette technique. </p>
+
+
+
+<p> Pour tenter de résoudre certains des problèmes avancés et soutenir l’implantation de la spectrométrie de masse dans les laboratoires cliniques, des industriels ont commencé à travailler sur des systèmes robotisés. Ces solutions techniques ont pour objectif de répondre aux besoins d’automatisation, de flux de production des tests, d’efficacité et de sécurité. Le laboratoire de biochimie clinique de l’université de Milan s’est notamment équipé d’une machine de ce type. Grâce à ce dispositif, le laboratoire est aujourd’hui capable de détecter les drogues, de quantifier la vitamine D, les stéroïdes, et d’identifier des bactéries. </p>
+
+
+
+<p>
+
+La spectrométrie de masse s’avère donc très
+utile et performante dans un cadre clinique.
+Cependant il est encore nécessaire de
+populariser cette méthode d’analyse. C’est
+pourquoi les entreprises médicales doivent
+continuer à innover dans ce domaine, afin
+de proposer dans les prochaines années, un
+système entièrement automatisé qui pourra
+répondre aux problèmes de coût et de temps.
+
+</p>
+<p>L’article <a rel="nofollow" href="/la-spectrometrie-de-masse-etude-medico-economique-comparative/">LA SPECTROMÉTRIE DE MASSE : ÉTUDE MÉDICO-ÉCONOMIQUE COMPARATIVE</a> est apparu en premier sur <a rel="nofollow" href="/">Le Ptit Biomed</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/la-spectrometrie-de-masse-etude-medico-economique-comparative/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>IMACTIS, LE GPS DES RADIOLOGUES INTERVENTIONNELS</title>
+		<link>/imactis-le-gps-des-radiologues-interventionnels/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=imactis-le-gps-des-radiologues-interventionnels</link>
+					<comments>/imactis-le-gps-des-radiologues-interventionnels/#respond</comments>
+		
+		<dc:creator><![CDATA[Le Ptit Biomed]]></dc:creator>
+		<pubDate>Sun, 06 Dec 2020 17:12:38 +0000</pubDate>
+				<category><![CDATA[2017]]></category>
+		<category><![CDATA[AFIB]]></category>
+		<category><![CDATA[Articles]]></category>
+		<guid isPermaLink="false">/?p=1866</guid>
+
+					<description><![CDATA[<p>Par Dr Olivier VARBEDIAN et Nicolas GIRAUD Radiologue au CGFL, Dijon Directeur commercial, société IMACTIS Au cours des dernières années, la radiologie interventionnelle a beaucoup évolué, autant d’un point de vue clinique avec l’augmentation de la demande, que technologique avec le développement de nouveaux moyens de guidage par imagerie. Cette technique peu invasive présente de &#8230;</p>
+<p class="read-more"> <a class="" href="/imactis-le-gps-des-radiologues-interventionnels/"> <span class="screen-reader-text">IMACTIS, LE GPS DES RADIOLOGUES INTERVENTIONNELS</span> Lire la suite »</a></p>
+<p>L’article <a rel="nofollow" href="/imactis-le-gps-des-radiologues-interventionnels/">IMACTIS, LE GPS DES RADIOLOGUES INTERVENTIONNELS</a> est apparu en premier sur <a rel="nofollow" href="/">Le Ptit Biomed</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Par  Dr Olivier VARBEDIAN et Nicolas GIRAUD Radiologue au CGFL, Dijon Directeur commercial, société IMACTIS </p>
+
+
+
+<p> Au cours des dernières années, la radiologie interventionnelle a beaucoup évolué, autant d’un point de vue clinique avec l’augmentation de la demande, que technologique avec le développement de nouveaux moyens de guidage par imagerie. Cette technique peu invasive présente de nombreux avantages. En effet, elle peut être réalisée en ambulatoire et ne nécessite, le plus souvent, qu’une anesthésie locale. Utilisée à des fins diagnostiques ou thérapeutiques, cette procédure peut s’appliquer à divers domaines médicaux : cancérologie, neurologie, médecine vasculaire… Toutefois, elle exige une grande précision et une bonne maîtrise des techniques d’imagerie. Innover et proposer de nouvelles solutions d’aide à l’intervention est donc devenu un enjeu majeur. </p>
+
+
+
+<p> Jusqu’à présent, les gestes médicaux sous contrôle scanographique se faisaient à main levée, dans le plan d’acquisition des images ; l’aiguille n’était alors visible que par un point. IMACTIS a développé un système innovant permettant de visualiser la trajectoire anticipée de l’aiguille dans deux coupes 2D du volume acquis préalablement. Grâce à un émetteur électromagnétique à trois points de repérage et à un porte-aiguille récepteur, le médecin est capable de simuler sur la console, la position et l’orientation de l’aiguille dans le volume scanné. Au moment de réaliser l’acte médical, il peut également vérifier la profondeur de pénétration de l’aiguille et ainsi assurer une intervention plus sécurisée.</p>
+
+
+
+<p> Ce système est simple d’utilisation, permet un gain de temps, améliore la précision du geste et réduit l’exposition aux rayons X grâce à la réduction du nombre de contrôles nécessaires au cours de l’intervention. Toutefois, il subsiste quelques inconvénients. L’émission électromagnétique est limitée à une zone de 25 centimètres autour de la cible, il faut donc prévoir sa position à l’avance ; et le champ est sensible aux objets métalliques. Le mouvement des organes et la fragilité de l’aiguille peuvent également causer des erreurs dans les trajectoires calculées. </p>
+
+
+
+<p>
+
+Dans tous les cas, ces nouvelles technologies
+constituent une assistance incontestable
+pour les radiologues interventionnels. C’est
+pourquoi il est important de poursuivre
+ce travail de recherche technologique, afin
+d’aider les médecins dans l’exercice de leur
+métier.
+
+</p>
+
+
+
+<p> </p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+<p>L’article <a rel="nofollow" href="/imactis-le-gps-des-radiologues-interventionnels/">IMACTIS, LE GPS DES RADIOLOGUES INTERVENTIONNELS</a> est apparu en premier sur <a rel="nofollow" href="/">Le Ptit Biomed</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/imactis-le-gps-des-radiologues-interventionnels/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>GÉNOME, MONDE DE DEMAIN</title>
+		<link>/genome-monde-de-demain/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=genome-monde-de-demain</link>
+					<comments>/genome-monde-de-demain/#respond</comments>
+		
+		<dc:creator><![CDATA[Le Ptit Biomed]]></dc:creator>
+		<pubDate>Sun, 06 Dec 2020 17:12:38 +0000</pubDate>
+				<category><![CDATA[2017]]></category>
+		<category><![CDATA[AFIB]]></category>
+		<category><![CDATA[Articles]]></category>
+		<guid isPermaLink="false">/?p=1868</guid>
+
+					<description><![CDATA[<p>Par Yannis DUFOUR Ingénieur de recherche en bio-informatique, CHU de Dijon Notre corps est constitué de 100 000 milliards de cellules, chacune comportant une copie de notre génome en son noyau : l’ADN (Acide Désoxyribo-Nucléique). C’est une molécule enroulée sur elle-même en double hélice, composée des quatre nucléobases : Adénine, Cytosine, Guanine et Thymine. Déplié, &#8230;</p>
+<p class="read-more"> <a class="" href="/genome-monde-de-demain/"> <span class="screen-reader-text">GÉNOME, MONDE DE DEMAIN</span> Lire la suite »</a></p>
+<p>L’article <a rel="nofollow" href="/genome-monde-de-demain/">GÉNOME, MONDE DE DEMAIN</a> est apparu en premier sur <a rel="nofollow" href="/">Le Ptit Biomed</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Par  Yannis DUFOUR </p>
+
+
+
+<p>Ingénieur de recherche en bio-informatique, CHU de Dijon </p>
+
+
+
+<p> Notre corps est constitué de 100 000 milliards de cellules, chacune comportant une copie de notre génome en son noyau : l’ADN (Acide Désoxyribo-Nucléique). C’est une molécule enroulée sur elle-même en double hélice, composée des quatre nucléobases : Adénine, Cytosine, Guanine et Thymine. Déplié, un chromosome moyen peut mesurer jusqu’à 14 cm. C’est donc cette molécule qui est porteuse des précieuses informations génétiques, servant à coder pour la fabrication des protéines. Néanmoins, seul 1,5% des séquences de l’ADN sont codantes.</p>
+
+
+
+<p> Le Projet Génome Humain (ou Human Genome Project, HGP) est un programme qui a débuté en 1990, ayant pour but le séquençage total du génome humain. Ce projet a abouti en 2003. Désormais les données issues de ce séquençage sont publiques car on considère que le génome humain est patrimoine de l’humanité. </p>
+
+
+
+<p> Le génome peut être étudié grâce à différentes techniques: par exemple, l’étude du caryotype correspond à une prise de vue microscopique de l’ensemble des chromosomes. Il existe également les puces à ADN (comme la CGH Array) : c’est une microplaque comportant des molécules d’ADN fixées à sa surface, et permettant d’analyser le niveau d’expression des gènes transcrits dans une cellule. Enfin, une autre méthode d’étude du génome est la Polymerase Chain Reaction (PCR), ou réaction en chaîne par polymérase en français. C’est une méthode de biologie moléculaire d’amplification génique in vitro, qui permet de dupliquer en grand nombre une séquence d’ADN ou d’Acide Ribonucléique (ARN) connue, à partir d’une faible quantité. </p>
+
+
+
+<p>
+
+La Bio-informatique est l’ensemble des
+méthodes et techniques qui traduisent
+les données biologiques (bio-data) en
+informations numériques. Cette jeune
+discipline trouve parfaitement sa place
+dans le monde d’aujourd’hui, où la course
+au séquençage nécessite une bonne gestion
+des données biologiques, que ce soit pour les
+traiter par la suite ou pour notre sécurité. 
+
+
+</p>
+
+
+
+<p> </p>
+
+
+
+<p></p>
+<p>L’article <a rel="nofollow" href="/genome-monde-de-demain/">GÉNOME, MONDE DE DEMAIN</a> est apparu en premier sur <a rel="nofollow" href="/">Le Ptit Biomed</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/genome-monde-de-demain/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>LA CENTRALISATION DE L’ENSEMBLE DES ECG PRODUITS</title>
+		<link>/la-centralisation-de-lensemble-des-ecg-produits/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=la-centralisation-de-lensemble-des-ecg-produits</link>
+					<comments>/la-centralisation-de-lensemble-des-ecg-produits/#respond</comments>
+		
+		<dc:creator><![CDATA[Le Ptit Biomed]]></dc:creator>
+		<pubDate>Sun, 06 Dec 2020 17:12:38 +0000</pubDate>
+				<category><![CDATA[2017]]></category>
+		<category><![CDATA[AFIB]]></category>
+		<category><![CDATA[Articles]]></category>
+		<guid isPermaLink="false">/?p=1878</guid>
+
+					<description><![CDATA[<p>Par Robin GIGLEUX Ingénieur biomédical, CHU Strasbourg Cette problématique est abordée à travers un retour d’expérience mené par le CHU de Strasbourg afin de dématérialiser tous les ECG produits. L’objectif était d’atteindre le zéro papier pour un acte plus que courant dans le milieu médical et ce, tout en faisant attention à la large diffusion &#8230;</p>
+<p class="read-more"> <a class="" href="/la-centralisation-de-lensemble-des-ecg-produits/"> <span class="screen-reader-text">LA CENTRALISATION DE L’ENSEMBLE DES ECG PRODUITS</span> Lire la suite »</a></p>
+<p>L’article <a rel="nofollow" href="/la-centralisation-de-lensemble-des-ecg-produits/">LA CENTRALISATION DE L’ENSEMBLE DES ECG PRODUITS</a> est apparu en premier sur <a rel="nofollow" href="/">Le Ptit Biomed</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Par Robin GIGLEUX </p>
+
+
+
+<p>Ingénieur biomédical, CHU Strasbourg </p>
+
+
+
+<p> Cette problématique est abordée à travers un retour d’expérience mené par le CHU de Strasbourg afin de dématérialiser tous les ECG produits. L’objectif était d’atteindre le zéro papier pour un acte plus que courant dans le milieu médical et ce, tout en faisant attention à la large diffusion de cet examen avec un minimum de contraintes et de clics afin de ne pas rendre cet acte chronophage pour le personnel. De plus, il ne fallait pas se lier à un seul fournisseur afin de ne pas en dépendre. En effet, les fonctionnalités peuvent être très riches et intégrer différentes méthodes de gestion de l’identité. Cependant, le format propriétaire de l’ECG en fait un point très faible, que se passe-t-il en cas de changement de fournisseur ? </p>
+
+
+
+<p> La question de la numérisation du tracé (via numériseur) s’est alors posée, mais le problème majeur est le temps moyen d’intégration (5 à 8 min/ECG) et au final la visualisation uniquement d’un document PDF. Le choix s’est porté sur une solution «neutre» qui s’appuie sur des PACS ou MACS existants au travers du protocole DICOM. Cette solution fut retenue dans le cahier des charges tout en prenant en compte la nécessité de pouvoir sauvegarder des tracés sur une longue durée, de pouvoir modifier l’affichage (amplitude, temps) et d’effectuer des mesures directement sur l’écran. </p>
+
+
+
+<p> La mise en place s’est ensuite déroulée en trois étapes. Tout d’abord, l’identité du patient : elle ne peut pas se faire manuellement car les champs patient doivent provenir du système interne et être automatisés au maximum tout en gardant une possibilité de manuel pour les patients en urgence. Cet envoi est effectué via la worklist DICOM. En ce qui concerne l’envoi du tracé il est également généré au format DICOM. Enfin, l’affichage des tracés a été réalisé au travers d’un viewer spécifique qui réalise un DICOM Query/Retrieve des tracés afin de pouvoir le modifier, le comparer et réaliser d’éventuelles mesures. </p>
+
+
+
+<p>
+
+L’accès aux tracés est possible aux travers de
+liens contextuels des différentes applications
+utilisées par le personnel (dossier patient,
+anesthésie, réanimation&#8230;) et aujourd’hui le
+bilan est plutôt positif, la solution a connu
+une bonne adhésion des utilisateurs, la
+réalisation se fait en 5 clics et 50 ECG sont
+déployés dans le centre. Malgré quelques
+manques tels que l’impossibilité d’ajouter
+des conclusions sur le tracé et la nécessité
+d’une bonne couverture Wi-Fi, l’ECG DICOM,
+ça fonctionne.
+
+</p>
+<p>L’article <a rel="nofollow" href="/la-centralisation-de-lensemble-des-ecg-produits/">LA CENTRALISATION DE L’ENSEMBLE DES ECG PRODUITS</a> est apparu en premier sur <a rel="nofollow" href="/">Le Ptit Biomed</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/la-centralisation-de-lensemble-des-ecg-produits/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>LE PATIENT DEBOUT : POURQUOI ALLER AU BLOC OPÉRATOIRE À PIED ?</title>
+		<link>/le-patient-debout-pourquoi-aller-au-bloc-operatoire-a-pied/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=le-patient-debout-pourquoi-aller-au-bloc-operatoire-a-pied</link>
+					<comments>/le-patient-debout-pourquoi-aller-au-bloc-operatoire-a-pied/#respond</comments>
+		
+		<dc:creator><![CDATA[Le Ptit Biomed]]></dc:creator>
+		<pubDate>Sun, 06 Dec 2020 17:12:38 +0000</pubDate>
+				<category><![CDATA[2017]]></category>
+		<category><![CDATA[AFIB]]></category>
+		<category><![CDATA[Articles]]></category>
+		<guid isPermaLink="false">/?p=1874</guid>
+
+					<description><![CDATA[<p>Par Dr Catherine GAY Chef du Service Gynécologie, CH Belfort Les services de chirurgie mammaire carcinologique se sont rendus compte que de nombreuses patientes restaient hospitalisées la nuit suivant l’opération sans aucune perfusion ni aucun soin. Une réflexion sur l’évolution de la prise en charge de ces patientes a alors été faite : le patient &#8230;</p>
+<p class="read-more"> <a class="" href="/le-patient-debout-pourquoi-aller-au-bloc-operatoire-a-pied/"> <span class="screen-reader-text">LE PATIENT DEBOUT : POURQUOI ALLER AU BLOC OPÉRATOIRE À PIED ?</span> Lire la suite »</a></p>
+<p>L’article <a rel="nofollow" href="/le-patient-debout-pourquoi-aller-au-bloc-operatoire-a-pied/">LE PATIENT DEBOUT : POURQUOI ALLER AU BLOC OPÉRATOIRE À PIED ?</a> est apparu en premier sur <a rel="nofollow" href="/">Le Ptit Biomed</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Par  Dr Catherine GAY </p>
+
+
+
+<p>Chef du Service Gynécologie, CH Belfort </p>
+
+
+
+<p>
+
+Les services de chirurgie mammaire
+carcinologique se sont rendus compte
+que de nombreuses patientes restaient
+hospitalisées la nuit suivant l’opération
+sans aucune perfusion ni aucun soin. Une
+réflexion sur l’évolution de la prise en charge
+de ces patientes a alors été faite : le patient
+debout au bloc opératoire.
+
+</p>
+
+
+
+<p> La mise en place d’un tel projet a nécessité un centre de référence et une démarche pluridisciplinaire au sein de l’établissement regroupant les cadres de santé, chirurgiens, anesthésistes, brancardiers, hygiénistes, qualiticiens… Les idées déjà établies depuis des années peuvent parfois être difficiles à faire évoluer mais le gain pour le patient est réellement présent.  </p>
+
+
+
+<p> La patiente, vêtue d’une tenue jetable composée d’un tee-shirt et d’un pantalon, se dirige vers le bloc opératoire en compagnie d’autres patientes et d’un brancardier. De plus, la patiente peut garder ses prothèses (auditives, capillaires, dentaires) et effets personnels sur elle jusqu’à l’entrée en salle d’opération. C’est uniquement une fois endormie que les chirurgiens vont retirer le vêtement pour accéder à la zone d’intervention puis le remettre pour que la patiente soit habillée lors de son réveil. Les prothèses quant à elles leurs sont restituées en salle de réveil. La patiente devient donc actrice et autonome durant son hospitalisation tout en gardant sa dignité et respectant son intimité, l’acte est alors dédramatisé et les délais d’attente réduits. Ce projet a mis en valeur le métier de brancardier et fluidifié le bloc opératoire en réduisant les manutentions et favorisant la communication. Ce nouveau circuit au bloc opératoire permet un gain de temps et financier, ainsi qu’une amélioration et simplification des règles d’hygiène puisque le nombre de transferts et donc de contacts est réduit. </p>
+
+
+
+<p>
+
+En retour d’expérience, 90% à 100% des
+patientes sont conquises par la relation «
+face à face » avec le personnel soignant et
+99% d’entre elles ne regrettaient pas d’être
+allées au bloc opératoire à pieds. De plus,
+ce principe permet d’alléger les drogues
+anesthésiques et de réduire le temps de
+réveil. Le point fort de ce parcours de
+soin reste le respect de l’intimité et de la
+dignité de la patiente. La forte adhésion
+et satisfaction du patient permettent de
+concrétiser ce projet et ouvre la discussion
+à ce type de pratique pour d’autres services
+que la chirurgie mammaire carcinologique.
+
+</p>
+<p>L’article <a rel="nofollow" href="/le-patient-debout-pourquoi-aller-au-bloc-operatoire-a-pied/">LE PATIENT DEBOUT : POURQUOI ALLER AU BLOC OPÉRATOIRE À PIED ?</a> est apparu en premier sur <a rel="nofollow" href="/">Le Ptit Biomed</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/le-patient-debout-pourquoi-aller-au-bloc-operatoire-a-pied/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>MRI-LINAC : RADIOTHÉRAPIE GUIDÉE PAR IRM</title>
+		<link>/mri-linac-radiotherapie-guidee-par-irm/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=mri-linac-radiotherapie-guidee-par-irm</link>
+					<comments>/mri-linac-radiotherapie-guidee-par-irm/#respond</comments>
+		
+		<dc:creator><![CDATA[Le Ptit Biomed]]></dc:creator>
+		<pubDate>Sun, 06 Dec 2020 17:12:14 +0000</pubDate>
+				<category><![CDATA[2017]]></category>
+		<category><![CDATA[AFIB]]></category>
+		<category><![CDATA[Articles]]></category>
+		<guid isPermaLink="false">/?p=1882</guid>
+
+					<description><![CDATA[<p>Par Dr Léone AUBIGNAC et Dr Gilles TRUC Service de physique Département de radiothérapie, Centre Georges François Leclerc de Dijon L’imagerie médicale est un élément incontournable pour les traitements en radiothérapie. Le scanner est actuellement l’imagerie de référence mais reste imprécis, notamment pour définir des volumes anatomiques en raison du manque de contraste. L’IRM Linac &#8230;</p>
+<p class="read-more"> <a class="" href="/mri-linac-radiotherapie-guidee-par-irm/"> <span class="screen-reader-text">MRI-LINAC : RADIOTHÉRAPIE GUIDÉE PAR IRM</span> Lire la suite »</a></p>
+<p>L’article <a rel="nofollow" href="/mri-linac-radiotherapie-guidee-par-irm/">MRI-LINAC : RADIOTHÉRAPIE GUIDÉE PAR IRM</a> est apparu en premier sur <a rel="nofollow" href="/">Le Ptit Biomed</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Par Dr Léone AUBIGNAC et Dr Gilles TRUC Service de physique Département de radiothérapie, Centre Georges François Leclerc de Dijon</p>
+
+
+
+<p> L’imagerie médicale est un élément incontournable pour les traitements en radiothérapie. Le scanner est actuellement l’imagerie de référence mais reste imprécis, notamment pour définir des volumes anatomiques en raison du manque de contraste. L’IRM Linac est un accélérateur hybride nouvelle génération présenté par le Dr AUBIGNAC. Il s’agit d’un accélérateur reposant sur des images IRM obtenues avant ou pendant la séance de traitement. Cette acquisition permet par la suite de repositionner le patient en temps réel et aussi d’améliorer la définition de l’image.  </p>
+
+
+
+<p> Ce dispositif comporte deux systèmes électromagnétiques sensibles au champ externe. Il a été pensé afin de prendre en compte les avantages de chacune de ces technologies, IRM et accélérateur. Il a été conçu pour éviter les perturbations de chacun. Actuellement deux sociétés commercialisent un tel système : le MRIdian Linac de ViewRay et l’Unity d’Elekta. L’aimant proposé par la compagnie Elekta fait 1,5T contre 0,35T pour ViewRay. Avec un tel aimant, ViewRay présente comme avantage la possibilité de faire des séquences fonctionnelles afin d’adapter le traitement en fonction de la réponse et cela en temps réel. Les deux modèles présentent aussi un accélérateur délivrant un faisceau de photons de 6 MV par modulation d’intensité. L’intérêt clinique de ce nouveau dispositif est une meilleure visualisation des tumeurs de manière non invasive et non irradiante pour le patient et tout cela avec un gain de temps important. Le MRIdian possède déjà les marquages CE et FDA et l’Unity d’Elekta recevra le marquage CE d’ici fin 2017. </p>
+
+
+
+<p> Cependant, il existe aussi des contraintes liées à l’installation de ces équipements à savoir l’encombrement des machines qui est plus important. Bien entendu on retrouve les contraintes de la cage de Faraday, la gestion des circuits de refroidissement à eau et à hélium. Il y a aussi des contraintes de radioprotection en ce qui concerne le faisceau de photons 6 MV. Les matériaux ne doivent pas pour autant gêner le champ magnétique. </p>
+
+
+
+<p>
+
+En résumé l’IRM Linac est un nouveau
+dispositif d’imagerie permettant d’adapter
+en temps réel grâce à la technologie de l’IRM
+le traitement au plus près des volumes à
+irradier en tenant compte des modifications
+anatomiques. On parle de radiothérapie
+adaptative.
+
+</p>
+<p>L’article <a rel="nofollow" href="/mri-linac-radiotherapie-guidee-par-irm/">MRI-LINAC : RADIOTHÉRAPIE GUIDÉE PAR IRM</a> est apparu en premier sur <a rel="nofollow" href="/">Le Ptit Biomed</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/mri-linac-radiotherapie-guidee-par-irm/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>LE MONITORAGE DANS TOUS SES ÉTATS</title>
+		<link>/le-monitorage-dans-tous-ses-etats/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=le-monitorage-dans-tous-ses-etats</link>
+					<comments>/le-monitorage-dans-tous-ses-etats/#respond</comments>
+		
+		<dc:creator><![CDATA[Le Ptit Biomed]]></dc:creator>
+		<pubDate>Sun, 06 Dec 2020 17:12:14 +0000</pubDate>
+				<category><![CDATA[2017]]></category>
+		<category><![CDATA[AFIB]]></category>
+		<category><![CDATA[Articles]]></category>
+		<guid isPermaLink="false">/?p=1884</guid>
+
+					<description><![CDATA[<p>Par Thierry BAGNOL et Emmanuel GENTES Directeur général, société IDMED Responsable marketing ventilation et thermorégulation, société Dräger France La pupillométrie et ses applications cliniques en soins intensifs et anesthésie La pupillométrie est la mesure du diamètre de la pupille et de ses variations. De nos jours, elle est utilisée pour l’évaluation de la douleur. Cette &#8230;</p>
+<p class="read-more"> <a class="" href="/le-monitorage-dans-tous-ses-etats/"> <span class="screen-reader-text">LE MONITORAGE DANS TOUS SES ÉTATS</span> Lire la suite »</a></p>
+<p>L’article <a rel="nofollow" href="/le-monitorage-dans-tous-ses-etats/">LE MONITORAGE DANS TOUS SES ÉTATS</a> est apparu en premier sur <a rel="nofollow" href="/">Le Ptit Biomed</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Par  Thierry BAGNOL et Emmanuel GENTES </p>
+
+
+
+<p>Directeur général, société IDMED Responsable marketing ventilation et thermorégulation, société Dräger France </p>
+
+
+
+<p> La pupillométrie et ses applications cliniques en soins intensifs et anesthésie La pupillométrie est la mesure du diamètre de la pupille et de ses variations. De nos jours, elle est utilisée pour l’évaluation de la douleur. Cette technique de mesure s’intéresse à deux réflexes : le réflexe photomoteur (RPM) et le réflexe de dilatation pupillaire (RDP). </p>
+
+
+
+<p> Le RPM est la constriction physiologique de la pupille exposée à la lumière. La société IDMED propose l’appareil Neurolight qui mesure la taille de la pupille et sa réactivité. Il remplace ainsi l’examen traditionnel de la pupille des patients à la lampe de poche, qui était dépendant de l’opérateur. Quotidiennement utilisée en soins intensifs, cette pratique permet d’examiner l’état cérébral du patient. </p>
+
+
+
+<p> Le RDP est la dilatation de la pupille provoquée par une stimulation douloureuse ou nociceptive. La technique mesurant cette dilatation est une solution pour le suivi de l’analgésie, qui est, avec l’hypnose et la curarisation, une des trois composantes majeures de l’anesthésie générale. Deux appareils permettent de quantifier le RDP obtenu via un stimulateur nociceptif intégré : l’Algiscan est utilisé en réanimation grâce à sa mobilité tandis que le Mapstation est un moniteur de bloc opératoire. Ces dispositifs assurent l’optimisation du dosage des morphiniques. </p>
+
+
+
+<p> Présentation du PulmoVista 500 par Dräger </p>
+
+
+
+<p>Aujourd’hui, le respirateur est le seul appareil communiquant les paramètres pulmonaires d’une personne alitée. Pour obtenir des informations régionales des poumons, le patient doit être déplacé jusqu’au service d’imagerie (scanner ou radiologie). Le PulmoVista 500 de Dräger est un moniteur de visualisation, en continu et temps réel, de la répartition de la ventilation dans les poumons, au chevet du patient. Sous forme de ceinture d’électrodes, il s’appuie sur la technique de la tomographie par impédance électrique. Les points forts de cet appareil sont la facilité de mise en place, la qualité de son signal et la présentation graphique des données obtenues. Cette pratique non invasive permet une individualisation de la prise en charge du patient.  </p>
+<p>L’article <a rel="nofollow" href="/le-monitorage-dans-tous-ses-etats/">LE MONITORAGE DANS TOUS SES ÉTATS</a> est apparu en premier sur <a rel="nofollow" href="/">Le Ptit Biomed</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/le-monitorage-dans-tous-ses-etats/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>LA GÉOLOCALISATION DES DM</title>
+		<link>/la-geolocalisation-des-dm/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=la-geolocalisation-des-dm</link>
+					<comments>/la-geolocalisation-des-dm/#respond</comments>
+		
+		<dc:creator><![CDATA[Le Ptit Biomed]]></dc:creator>
+		<pubDate>Sun, 06 Dec 2020 17:12:14 +0000</pubDate>
+				<category><![CDATA[2017]]></category>
+		<category><![CDATA[AFIB]]></category>
+		<category><![CDATA[Articles]]></category>
+		<guid isPermaLink="false">/?p=1880</guid>
+
+					<description><![CDATA[<p>Par Farid ANNABI, Responsable Biomédical des Hôpitaux privés de Metz &#8211; Cédric SOU, société STANLEY Healthcare &#8211; Julien VACHE, société STANLEY Healthcare Dans un contexte de plus en plus précaire en ressources humaines et matérielles, la gestion des équipements au sein d’un établissement représente un véritable défi pour les services biomédicaux et les unités de &#8230;</p>
+<p class="read-more"> <a class="" href="/la-geolocalisation-des-dm/"> <span class="screen-reader-text">LA GÉOLOCALISATION DES DM</span> Lire la suite »</a></p>
+<p>L’article <a rel="nofollow" href="/la-geolocalisation-des-dm/">LA GÉOLOCALISATION DES DM</a> est apparu en premier sur <a rel="nofollow" href="/">Le Ptit Biomed</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Par  Farid ANNABI, Responsable Biomédical des Hôpitaux privés de Metz &#8211; Cédric SOU, société STANLEY Healthcare &#8211; Julien VACHE, société STANLEY Healthcare </p>
+
+
+
+<p> Dans un contexte de plus en plus précaire en ressources humaines et matérielles, la gestion des équipements au sein d’un établissement représente un véritable défi pour les services biomédicaux et les unités de soins. Pour géolocaliser et gérer les flux des équipements biomédicaux, Stanley Healthcare propose une solution connectée au réseau Wi-Fi existant de l’hôpital. Connaître la position du matériel permet de diminuer le temps de recherche, d’optimiser la gestion des maintenances, de suivre l’utilisation des équipements, de gérer les inventaires et en parallèle de rendre autonome les unités de soins sur leur recherche d’équipements, d’améliorer les flux, la prise en charge du patient et de diminuer le temps d’attente. </p>
+
+
+
+<p> La solution Stanley Healthcare se compose de tags fixés sur les équipements. Ces tags permettent la géolocalisation en temps réel en envoyant un signal au réseau Wi-Fi existant de l’hôpital. Ils peuvent également générer des évènements, alertes et notifications. Il existe plusieurs modèles de tags qui ont chacun leur spécificité : équipements, patients, personnel de soins, traçabilité des températures, stérilisation autoclave&#8230; C’est ensuite l’interface « MobileView » qui prend le relais pour l’ensemble de ces applications. Grâce à cette seule et unique plateforme web, on peut agir à deux niveaux : une action en temps réel puis une réflexion organisationnelle après une étude des données et des flux. </p>
+
+
+
+<p> Cette solution est installée dans les Hôpitaux privés de Metz où elle est utilisée pour géolocaliser les pompes PCA qui manquaient souvent en salle de réveil malgré leur présence dans l’établissement. L’objectif initial était d’avoir un statut d’utilisation des pompes ainsi que leur localisation dans l’établissement. Après trois ans d’utilisation, le service biomédical considère que l’utilisation de la solution Stanley Healthcare au quotidien est concluante. Désormais, les soignants sont autonomes sur la solution pour retrouver les pompes PCA ainsi que le service biomédical pour réaliser la maintenance. L’hôpital a même prévu d’étendre la géolocalisation à d’autres équipements dont les pousse-seringues. </p>
+
+
+
+<p>
+
+Le bilan de Farid ANNABI, Responsable
+Biomédical des Hôpitaux Privés de Metz, est
+positif quant à la solution de géolocalisation
+Stanley Healthcare. Ces résultats laissent
+présager une extension de la solution vers
+d’autres établissements du territoire.
+
+</p>
+<p>L’article <a rel="nofollow" href="/la-geolocalisation-des-dm/">LA GÉOLOCALISATION DES DM</a> est apparu en premier sur <a rel="nofollow" href="/">Le Ptit Biomed</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/la-geolocalisation-des-dm/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

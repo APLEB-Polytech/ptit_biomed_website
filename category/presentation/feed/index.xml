@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Présentation &#8211; Le Ptit Biomed</title>
+	<atom:link href="/category/presentation/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 07 Dec 2020 16:32:24 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/10/cropped-Plan-de-travail-1-copie-9@5x-2-32x32.png</url>
+	<title>Présentation &#8211; Le Ptit Biomed</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Le projet</title>
+		<link>/le-projet/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=le-projet</link>
+					<comments>/le-projet/#respond</comments>
+		
+		<dc:creator><![CDATA[Le Ptit Biomed]]></dc:creator>
+		<pubDate>Mon, 07 Dec 2020 15:10:13 +0000</pubDate>
+				<category><![CDATA[Présentation]]></category>
+		<guid isPermaLink="false">/?p=2925</guid>
+
+					<description><![CDATA[<p>Le Ptit Biomed® est un projet porté par des étudiants de Polytech Lyon depuis maintenant 10 ans. Le but est de rédiger un guide entièrement coordonné et réalisé par des élèves de la filière&#160;Génie Biomédical. La rédaction repose sur les résumés des conférences du congrès annuel de l’AFIB, association française des ingénieurs biomédicaux. De plus, &#8230;</p>
+<p class="read-more"> <a class="" href="/le-projet/"> <span class="screen-reader-text">Le projet</span> Lire la suite »</a></p>
+<p>L’article <a rel="nofollow" href="/le-projet/">Le projet</a> est apparu en premier sur <a rel="nofollow" href="/">Le Ptit Biomed</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Le</strong> <strong>Ptit Biomed</strong>® est un projet porté par des étudiants de Polytech Lyon depuis maintenant 10 ans. Le but est de rédiger un guide entièrement coordonné et réalisé par des élèves de la filière&nbsp;Génie Biomédical. La rédaction repose sur les résumés des conférences du congrès annuel de l’<a href="http://afib.asso.fr/">AFIB</a>, association française des ingénieurs biomédicaux. De plus, le guide répertorie les entreprises biomédicales exposantes lors de ce congrès. </p>
+
+
+
+<p>Le Ptit Biomed est également la matérialisation du lien qu’entretiennent les étudiants de la filière biomédicale de Polytech Lyon et les professionnels.</p>
+
+
+
+<p>Pour les étudiants organisateurs et rédacteurs, cette expérience est une extraordinaire opportunité d’élargir son réseau professionnel au sein d’un projet motivant et convivial.</p>
+
+
+
+<p>Finalement,  l&rsquo;implication des étudiants a permis la reconnaissance de Le Ptit Biomed® dans le monde biomédical. Ainsi, depuis 2017, le projet est partenaire avec SANTEXPO, anciennement Paris Health Care Week. Les étudiants participent au salon afin de rédiger un magazine résumant les conférences reliées au secteur biomédical. </p>
+
+
+
+<p></p>
+<p>L’article <a rel="nofollow" href="/le-projet/">Le projet</a> est apparu en premier sur <a rel="nofollow" href="/">Le Ptit Biomed</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/le-projet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
